@@ -1,2 +1,2 @@
 # animals-service
-Adaptive Shield - Home Assignment
+Home Assignment
